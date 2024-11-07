@@ -64,37 +64,37 @@ const linksList = [
     title: 'Popis knjiga',
     caption: 'Popis svih knjiga u knjižnici',
     icon: 'book',
-    link: '/popis_knjiga'
+    link: '#/popis_knjiga'
   },
   {
     title: 'Trazi knjigu',
     caption: 'Pretrazivanje',
     icon: 'chat',
-    link: '/pretrazivanje'
+    link: '#/pretrazivanje'
   },
   {
     title: 'O nama',
     caption: 'Informacije o nama',
     icon: 'record_voice_over',
-    link: '/o_nama'
+    link: '#/o_nama'
   },
   {
     title: 'Lokacija',
     caption: 'Lokacija',
     icon: 'rss_feed',
-    link: '/lokacija'
+    link: '#/lokacija'
   },
   {
     title: 'Login',
     caption: 'Prijavite se!',
     icon: 'public',
-    link: '/login'
+    link: '#/login'
   },
   {
     title: 'Register',
     caption: 'Registrirajte se',
     icon: 'favorite',
-    link: '/registracija'
+    link: '#/register'
   }
 ]
 
